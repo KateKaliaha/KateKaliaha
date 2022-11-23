@@ -49,14 +49,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateKaliaha&theme=light&background=ffffff)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KateKaliaha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/KateKaliaha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KateKaliaha&theme=buefy&layout=compact" />
+</a>
 
 ---
 
 ### :fire:  Codewars stats</h3>
 <a href="https://www.codewars.com/users/KateKaliaha"><img alt="My codewars stats" src="https://www.codewars.com/users/KateKaliaha/badges/large"></a>
-
-
 
 <p align="center">
 <a href="mailto:mellinda077@mail.ru"><img alt="Email" src="https://img.shields.io/badge/Email-mellinda077@mail.ru-orange?style=flat-square&logo=mail"></a>
