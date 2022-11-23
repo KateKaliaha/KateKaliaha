@@ -26,7 +26,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I learn new technologies and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/екатерина-коляга-540662251)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/екатерина-коляга-540662251)
 
 ---
 
@@ -48,6 +48,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateKaliaha&border=DDB360&theme=light&background=ffffff)](https://git.io/streak-stats) 
+
 
 <a href="https://github.com/KateKaliaha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KateKaliaha&theme=buefy&layout=compact" />
