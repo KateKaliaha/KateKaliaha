@@ -47,12 +47,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateKaliaha&border=DDB360&theme=light&background=ffffff)](https://git.io/streak-stats) 
-
-
-<a href="https://github.com/KateKaliaha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KateKaliaha&theme=buefy&layout=compact" />
-</a>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KateKaliaha&border=DDB360&theme=light&background=ffffff)
 
 ---
 
